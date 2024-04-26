@@ -165,7 +165,7 @@ html {
     position: relative;
     margin-top: 46px;
     padding-top: 50%; /*chiều cao ảnh bằng 50% tỉ lệ chiều ngang của chính nó */
-    background: url('/w3_band/assets/img/slider1.jpg') top center /cover no-repeat;    
+    background: url('./slider_img/slider1.jpg') top center /cover no-repeat;    
 }
 
 
