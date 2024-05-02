@@ -465,6 +465,10 @@ button{
     display: inline-block;
 }
 
+.contact-info a:hover{
+    opacity: 0.6;
+}
+
 .contact-form {
     font-size: 15px;
 }

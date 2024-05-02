@@ -4,7 +4,21 @@
 }
 /* tablet or ipad */
 @media (min-width: 740px) and (max-width: 1023px){
-    
+    .place-buy-btn {
+        padding: 15px 16px;
+    }
+    .contact-info {
+        line-height: 1.7;
+    }
+    .contact-form .form-control {
+        padding: 15px;
+    }
+    .contact-form .form-submit-btn {
+        padding: 10px 24px;
+    }
+    #footer .socials-list a {
+        margin: 0px 4px;
+    }
 }
 /* mobile */
 @media (max-width: 740px) {
