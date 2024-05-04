@@ -177,6 +177,7 @@ html {
     transform: translateX(-50%); */
     width:100%;
     text-align: center;
+    text-shadow: 0 0 1px #000;
 }
 
 #slider .text-heading {
@@ -208,6 +209,7 @@ html {
     font-size: 30px;
     font-weight: 500;
     letter-spacing: 4px;
+    text-transform: uppercase;
 }
 
 #content .section-sub-heading {
